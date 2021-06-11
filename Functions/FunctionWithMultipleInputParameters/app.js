@@ -6,7 +6,7 @@ function AddTwoNumbers(Num1,Num2) {
 
     console.log(sum);
 
-    return sum;
+    return sum
     
 }
 AddTwoNumbers(25,50);
